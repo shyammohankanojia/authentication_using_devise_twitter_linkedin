@@ -1,4 +1,4 @@
-h1. Authentication using devise twitter linkedin
+Authentication using devise twitter linkedin
 This is base application for developing rails 3.2.2 app using 
   1.Devise (https://github.com/plataformatec/devise)
   2.OmniAuth (https://github.com/intridea/omniauth)
